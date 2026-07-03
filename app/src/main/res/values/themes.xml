@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.PrayReminder" parent="android:Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">@color/app_background</item>
+        <item name="android:statusBarColor">@color/app_system_bar</item>
+        <item name="android:navigationBarColor">@color/app_system_bar</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.PrayReminder.Reminder" parent="Theme.PrayReminder">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
