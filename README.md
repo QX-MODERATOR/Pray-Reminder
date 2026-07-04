@@ -1,17 +1,17 @@
 # 🕌 Pray Reminder — تذكير الصلاة
 
 <p align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="120" alt="Pray Reminder Icon"/>
+  <img src="https://raw.githubusercontent.com/QX-MODERATOR/Pray-Reminder/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="120" alt="Pray Reminder Icon"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/QX-MODERATOR/Pray-Reminder/releases/latest">
     <img src="https://img.shields.io/github/v/release/QX-MODERATOR/Pray-Reminder?label=Latest%20Release&color=4CAF50&style=for-the-badge" alt="Latest Release"/>
   </a>
-  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android" alt="Android"/>
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
   <img src="https://img.shields.io/badge/Min%20SDK-24%20(Android%207.0)-blue?style=for-the-badge" alt="Min SDK 24"/>
-  <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=for-the-badge" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
 </p>
 
 ---
